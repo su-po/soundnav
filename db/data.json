@@ -1,0 +1,107 @@
+[
+    {
+        "website_title": "radio.syg.ma",
+        "website_description": "radio.syg.ma is a community platform for mixes, podcasts, live recordings and releases by independent musicians, sound artists and collectives.",
+        "website_feed": "https://radio.syg.ma/feed.rss",
+        "website_url": "https://radio.syg.ma/",
+        "website_image": "https://radio.syg.ma/icons/apple-icon-76x76.png"
+    },
+    {
+        "website_title": "Echobox Radio",
+        "website_description": "Independent, online radio station maintaining DIY enthusiasm with the quality of FM.",
+        "website_feed": "",
+        "website_url": "https://echobox.radio/",
+        "website_image": "https://echobox.radio/wp-content/uploads/2021/07/cropped-Echobox_Avatar_IG-01-scaled-e1625565496722-32x32.jpg"
+    },
+    {
+        "website_title": "Radio Garden",
+        "website_description": "Explore live radio by rotating the globe.",
+        "website_feed": "",
+        "website_url": "http://radio.garden/",
+        "website_image": "https://radio.garden/icons/favicon.png&w=32"
+    },
+    {
+        "website_title": "Radio Stasis",
+        "website_description": "Rotterdam based collective, also known as 'the airwaves match-makers'. Bringing local creatives together, one residency at a time.",
+        "website_feed": "https://radiostasis.live/rss",
+        "website_url": "https://radiostasis.live/",
+        "website_image": "https://static.cargo.site/favicon/favicon.ico"
+    },
+    {
+        "website_title": " SomaFM",
+        "website_description": "Over 30 unique channels of commercial-free, listener-supported radio. All music hand-picked by SomaFM's award-winning DJs and music directors.",
+        "website_feed": "",
+        "website_url": "https://SomaFM.com/",
+        "website_image": "https://somafm.com/img3/LoneDJsquare400.jpg"
+    },
+    {
+        "website_title": "musicForProgramming",
+        "website_description": "Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).",
+        "website_feed": "https://musicforprogramming.net/rss.xml",
+        "website_url": "https://musicforprogramming.net",
+        "website_image": "https://musicforprogramming.net/favicon.png"
+    },
+    {
+        "website_title": "Skylab | Home",
+        "website_description": "Datassette presents a series of mixes intended for listening while programming to focus the brain and inspire the mind (also compatible with other activities).",
+        "website_feed": "",
+        "website_url": "https://skylab-radio.com/",
+        "website_image": "https://skylab-radio.com/images/4fc9dc1102e8f272107359c42c7c243a.png"
+    },
+    {
+        "website_title": "Concertzender",
+        "website_description": "TRANSLATED - The Concertzender presents the listener with a wide range of music every day, from known to unknown, from jazz to world music, from ancient classical music to contemporary 'classics', and all possible mixtures of these.",
+        "website_feed": "https://www.concertzender.nl/feed/",
+        "website_url": "https://www.concertzender.nl/",
+        "website_image": "https://www.concertzender.nl/wp-content/uploads/2016/11/C-favicon-120x120.png"
+    },
+    {
+        "website_title": "Radius",
+        "website_description": "Radius is an experimental radio broadcast platform located in Chicago, IL, US",
+        "website_feed": "",
+        "website_url": "https://theradius.us/",
+        "website_image": "https://theradius.us/images/radiuslogo.png"
+    },
+    {
+        "website_title": "Kanal K - Richtig gutes Radio",
+        "website_description": "TRANSLATED - Kanal K is the education, community and music radio from Aarau. Shows and music far away from the mainstream.",
+        "website_feed": "",
+        "website_url": "https://kanalk.ch/",
+        "website_image": "https://kanalk.ch/favicon.png"
+    },
+    {
+        "website_title": "USMARADIO",
+        "website_description": "TRANSLATED - USMARADIO – University of the Republic of San Marino",
+        "website_feed": "https://www.usmaradio.org/feed/",
+        "website_url": "https://www.usmaradio.org/",
+        "website_image": "https://www.usmaradio.org/wp-content/uploads/2016/09/cropped-usmaradio-192x192.jpg"
+    },
+    {
+        "website_title": "Stewart Avenue | 24/7 internet radio",
+        "website_description": "Net label since 2017. 24/7 internet radio station broadcasting from NYC since 2016. Started in 2012 in Ithaca, NY.",
+        "website_feed": "https://stewartavenue.net/feed/",
+        "website_url": "https://stewartavenue.net/",
+        "website_image": "https://stewartavenue.net/wp-content/uploads/2020/09/cropped-stewart_w-150x150-192x192.png"
+    },
+    {
+        "website_title": "Rádio Olisipo",
+        "website_description": "Rádio Olisipo is a non-profit online radio station based in Lisbon. Its mission is to support and promote independent music, monitor the release of record works and publicize creative and artistic projects.",
+        "website_feed": "",
+        "website_url": "https://radiolisipo.com/",
+        "website_image": "https://radiolisipo.com/wp-content/themes/radiolisipo/assets/img/radio-icon.svg"
+    },
+    {
+        "website_title": "Nique - la radio",
+        "website_description": "Nique – La radio, la webradio global dancefloor et label de podcasts (Banana Kush, Faya, Allez le sang...)",
+        "website_feed": "",
+        "website_url": "hhttps://nique.radio/",
+        "website_image": "https://nique.radio/nique192.png"
+    },
+    {
+        "website_title": "Maxi Radio",
+        "website_description": "Maxi Radio is a multidisciplinary, open-space online radio station for DJs, artists and podcast makers with interface to art, music and night culture.",
+        "website_feed": "",
+        "website_url": "hhttps://nique.radio/",
+        "website_image": "https://maxiradio.nl/favicon.svg"
+    }
+]
